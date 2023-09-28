@@ -1,3 +1,0 @@
-C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/PROG/aulapoo2pratica/cmake-build-debug/CMakeFiles/aulapoo2pratica.dir
-C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/PROG/aulapoo2pratica/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/PROG/aulapoo2pratica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
