@@ -1,0 +1,10 @@
+# ninja log v5
+1	720	7210684719017420	CMakeFiles/projectNew.dir/main.cpp.obj	7027e8fa50007eb7
+724	906	7210684720799337	projectNew.exe	15b1f71e4b6213c6
+16	131	7210687204198459	CMakeFiles/projectNew.dir/Sensor.cpp.obj	79532d4129cdeab0
+9	219	7210691787464354	CMakeFiles/projectNew.dir/Processador.cpp.obj	917673dd100fbbf
+15	533	7210691790607513	CMakeFiles/projectNew.dir/Propriedade.cpp.obj	ba6b1be62d63db2c
+3	834	7210691793607104	CMakeFiles/projectNew.dir/Zona.cpp.obj	c7328904805b298a
+834	1002	7210691795237967	projectNew.exe	e03be701952ea9e5
+5	723	7210692020050531	CMakeFiles/projectNew.dir/main.cpp.obj	7027e8fa50007eb7
+726	905	7210692021813080	projectNew.exe	e03be701952ea9e5
