@@ -1,0 +1,11 @@
+# ninja log v5
+1	877	7206616919215573	CMakeFiles/ficha6.dir/main.cpp.obj	80963111e6e51b7b
+18	969	7206616920144480	CMakeFiles/ficha6.dir/RegistoCivil.cpp.obj	fa4b2710bddc93b9
+10	973	7206616920184250	CMakeFiles/ficha6.dir/Pessoa.cpp.obj	b4c9c55e14d61a0b
+974	1245	7206616922855161	ficha6.exe	fe4401abe82b64dc
+15	1026	7206618861088629	CMakeFiles/ficha6.dir/RegistoCivil.cpp.obj	fa4b2710bddc93b9
+4	1108	7206618861947879	CMakeFiles/ficha6.dir/main.cpp.obj	80963111e6e51b7b
+1109	1321	7206618864014971	ficha6.exe	fe4401abe82b64dc
+5	1092	7206621397732194	CMakeFiles/ficha6.dir/main.cpp.obj	80963111e6e51b7b
+14	1261	7206621399422690	CMakeFiles/ficha6.dir/RegistoCivil.cpp.obj	fa4b2710bddc93b9
+1270	1489	7206621401660713	ficha6.exe	fe4401abe82b64dc

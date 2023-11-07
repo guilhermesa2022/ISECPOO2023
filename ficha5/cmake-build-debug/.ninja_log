@@ -1,0 +1,6 @@
+# ninja log v5
+1447	1628	7206291786134362	ficha5.exe	3d8a760365bf77ca
+8	897	7206291778905217	CMakeFiles/ficha5.dir/main.cpp.obj	842306690e17f4cf
+4	362	7206307573270966	build.ninja	912644f0d074a559
+15	844	7206245281435222	CMakeFiles/ficha5.dir/Fracoe.cpp.obj	da29db9dd5e7fcc6
+18	1447	7206291784392594	CMakeFiles/ficha5.dir/Vetor.cpp.obj	3cf03de8c4e592a8

@@ -1,0 +1,3 @@
+C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/TrabalhoPratico/ISECPOO2023/ficha5/cmake-build-debug/CMakeFiles/ficha5.dir
+C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/TrabalhoPratico/ISECPOO2023/ficha5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/35193/OneDrive - ISEC/Ambiente de Trabalho/TrabalhoPratico/ISECPOO2023/ficha5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
